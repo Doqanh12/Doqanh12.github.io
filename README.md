@@ -6,10 +6,10 @@
     <title>Form Example</title>
     <style>
         input, textarea, button {
-        width: 100%;
-        font-size: 1.4rem;
-        margin-bottom: 15px;
-        padding: 10px;
+        width: 100;
+        font-size: 1.4;
+        margin-bottom: 15;
+        padding: 10;
         border: none;
         box-sizing: border-box; 
         }
